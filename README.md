@@ -1,9 +1,8 @@
-[![MasterHead](https://github.com/Olivia1809/Olivia1809/blob/main/banner.png)]
 <h1 align="center">Hi 👋, I'm Olivia Chiamaka Anudu</h1>
 <h3 align="center">I’m interested in Web and Mobile Application Development</h3>
-<img align="right" alt= "Coding" width="400" src="https://github.com/Olivia1809/Olivia1809/blob/main/banner.png" >
+<img align="right" alt= "Coding" width="400" src="" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=olivia1809&label=Profile%20views&color=0e75b6&style=flat" alt="olivia1809" /> </p>
+<p align="left"> <img src="https://github.com/Olivia1809/Olivia1809/blob/main/programmer.gif" alt="olivia1809" /> </p>
 
 - 🌱 I’m currently learning **React and c#**
 
