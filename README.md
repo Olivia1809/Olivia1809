@@ -1,4 +1,4 @@
-[![MasterHead](https://pfps.gg/banner/8653-smile)]
+[![MasterHead](https://github.com/Olivia1809/Olivia1809/blob/main/banner.png)]
 <h1 align="center">Hi 👋, I'm Olivia Chiamaka Anudu</h1>
 <h3 align="center">I’m interested in Web and Mobile Application Development</h3>
 <img align="right" alt= "Coding" width="400" src="https://github.com/Olivia1809/Olivia1809/blob/main/banner.png" >
