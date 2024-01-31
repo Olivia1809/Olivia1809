@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Olivia Chiamaka Anudu</h1>
 <h3 align="center">I’m interested in Web and Mobile Application Development</h3>
-<img align="right" alt= "Coding" width="400" src="" >
+<img align="right" alt= "Coding" width="400" src="https://github.com/Olivia1809/Olivia1809/blob/main/programmer.gif" >
 
 <p align="left"> <img src="https://github.com/Olivia1809/Olivia1809/blob/main/programmer.gif" alt="olivia1809" /> </p>
 
