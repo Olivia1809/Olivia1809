@@ -1,7 +1,7 @@
 [![MasterHead](https://pfps.gg/banner/8653-smile)]
 <h1 align="center">Hi 👋, I'm Olivia Chiamaka Anudu</h1>
 <h3 align="center">I’m interested in Web and Mobile Application Development</h3>
-<img align="right" alt= "Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdna.artstation.com%2Fp%2Fassets%2Fimages%2Fimages%2F042%2F631%2F286%2Foriginal%2Fbryan-rodriguez-belchibia-1-rightspeed.gif%3F1635037562&tbnid=oA1zpimgtB5PFM&vet=10CBYQMyhvahcKEwjwlaHqpoKEAxUAAAAAHQAAAAAQAg..i&imgrefurl=https%3A%2F%2Fwww.artstation.com%2Fartwork%2FWK41JQ&docid=kYgxF-tscSg72M&w=1024&h=1024&q=animated%20coding%20gif&ved=0CBYQMyhvahcKEwjwlaHqpoKEAxUAAAAAHQAAAAAQAg" >
+<img align="right" alt= "Coding" width="400" src="https://github.com/Olivia1809/Olivia1809/blob/main/banner.png" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olivia1809&label=Profile%20views&color=0e75b6&style=flat" alt="olivia1809" /> </p>
 
