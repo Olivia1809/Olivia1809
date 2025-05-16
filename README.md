@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Olivia Chiamaka Anudu</h1>
 <h3 align="center">💡 Full Stack Developer | 💙 Mobile App Enthusiast | 🎯 Lifelong Learner</h3>
 
-<p align="center">
+<p>
   <img src="https://github.com/Olivia1809/Olivia1809/blob/main/programmer.gif" alt="Coding girl gif" width="300"/>
 </p>
 
