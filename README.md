@@ -1,10 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Olivia Chiamaka Anudu</h1>
 <h3 align="center">💡 Full Stack Developer | 💙 Mobile App Enthusiast | 🎯 Lifelong Learner</h3>
 
-<p>
-  <img src="https://github.com/Olivia1809/Olivia1809/blob/main/programmer.gif" alt="Coding girl gif" width="300"/>
-</p>
-
 ---
 
 ### 👩‍💻 About Me
@@ -15,15 +11,14 @@ I love exploring **cross-platform development** and constantly challenge myself 
 ---
 
 ### 🚀 What I'm Working On
-- Learning **React** and **C#** to strengthen my frontend and backend skills  
-- Building a Flutter-based mobile app for personal task tracking  
+- Learning **PHP** and **PYTHON** to strengthen my frontend and backend skills  
 - Experimenting with **PHP and MySQL** to deepen my backend development knowledge  
 
 ---
 
 ### 🤝 Open to Collaborate On
 - 📱 Mobile apps using Flutter & Dart  
-- 🖥️ Full-stack websites (HTML/CSS/JS + PHP or Node.js)  
+- 🖥️ Full-stack websites (HTML/CSS/JS + PHP )  
 - 🌐 Projects focused on accessibility, clean UI/UX, or social good  
 
 ---
@@ -43,19 +38,24 @@ I love exploring **cross-platform development** and constantly challenge myself 
 
 ### 📬 Let's Connect
 - 📧 Email: [anuduolivia7@gmail.com](mailto:anuduolivia7@gmail.com)
-- 🔗 LinkedIn: *coming soon...*
+- 🔗 LinkedIn: (https://www.linkedin.com/in/olivia-chiamaka-anudu-8821b826a)
 - 💻 Portfolio: *coming soon...*
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olivia1809&show_icons=true&theme=default" alt="Olivia's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olivia1809&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=olivia1809&show_icons=true&theme=default" alt="Olivia's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olivia1809&layout=compact&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=olivia1809" alt="GitHub Streak" />
 </p>
